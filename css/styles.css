@@ -518,14 +518,14 @@ transform: translateY(0%);
 .footer-info {
     display: flex;
     align-items: baseline;
-    margin-right: 120px;
+    
     
 
 }
 
 .footer-marg {
-    margin-right: 120px;
     margin-left: 156px;
+
 
 }
 .logo {
@@ -547,6 +547,7 @@ transform: translateY(0%);
     letter-spacing: 0.02em;
     padding-top: 18px;
     max-width: 264px;
+    margin-right: 156px;
 }
 
 .soc-title {
